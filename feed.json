@@ -11,21 +11,6 @@
     },
     "items": [
         {
-            "id": "https://amj-instal.github.io/uslugi/",
-            "url": "https://amj-instal.github.io/uslugi/",
-            "title": "usługi",
-            "summary": "modernizacje serwis&hellip;",
-            "content_html": "<p>modernizacje</p>\n<p>serwis</p>\n<p>usługi cyfrowe</p>",
-            "author": {
-                "name": "Tomasz Górski"
-            },
-            "tags": [
-                   "menu"
-            ],
-            "date_published": "2026-03-01T10:59:46+01:00",
-            "date_modified": "2026-03-01T10:59:46+01:00"
-        },
-        {
             "id": "https://amj-instal.github.io/budynki-uzytecznosci-publicznej/",
             "url": "https://amj-instal.github.io/budynki-uzytecznosci-publicznej/",
             "title": "Budynki użyteczności publicznej",
