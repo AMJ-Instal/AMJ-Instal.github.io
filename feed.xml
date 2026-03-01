@@ -3,12 +3,35 @@
     <title>AMJ-Instal</title>
     <link href="https://amj-instal.github.io/feed.xml" rel="self" />
     <link href="https://amj-instal.github.io" />
-    <updated>2026-03-01T10:27:50+01:00</updated>
+    <updated>2026-03-01T10:59:46+01:00</updated>
     <author>
         <name>Tomasz Górski</name>
     </author>
     <id>https://amj-instal.github.io</id>
 
+    <entry>
+        <title>usługi</title>
+        <author>
+            <name>Tomasz Górski</name>
+        </author>
+        <link href="https://amj-instal.github.io/uslugi/"/>
+        <id>https://amj-instal.github.io/uslugi/</id>
+            <category term="menu"/>
+
+        <updated>2026-03-01T10:59:46+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    modernizacje serwis&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>modernizacje</p>
+<p>serwis</p>
+<p>usługi cyfrowe</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Budynki użyteczności publicznej</title>
         <author>
