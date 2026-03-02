@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AMJ-Instal</title>
-    <link href="https://amj-instal.github.io/feed.xml" rel="self" />
-    <link href="https://amj-instal.github.io" />
+    <link href="https://amj-instal.pl/feed.xml" rel="self" />
+    <link href="https://amj-instal.pl" />
     <updated>2026-03-01T10:27:50+01:00</updated>
     <author>
         <name>Tomasz Górski</name>
     </author>
-    <id>https://amj-instal.github.io</id>
+    <id>https://amj-instal.pl</id>
 
     <entry>
         <title>Budynki użyteczności publicznej</title>
         <author>
             <name>Tomasz Górski</name>
         </author>
-        <link href="https://amj-instal.github.io/budynki-uzytecznosci-publicznej/"/>
-        <id>https://amj-instal.github.io/budynki-uzytecznosci-publicznej/</id>
-        <media:content url="https://amj-instal.github.io/media/posts/14/BIEL8449-fot.-Krzysztof-Bielinski-scaled.jpg" medium="image" />
+        <link href="https://amj-instal.pl/budynki-uzytecznosci-publicznej/"/>
+        <id>https://amj-instal.pl/budynki-uzytecznosci-publicznej/</id>
+        <media:content url="https://amj-instal.pl/media/posts/14/BIEL8449-fot.-Krzysztof-Bielinski-scaled.jpg" medium="image" />
 
         <updated>2026-02-28T00:11:10+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://amj-instal.github.io/media/posts/14/BIEL8449-fot.-Krzysztof-Bielinski-scaled.jpg" alt="" />
+                        <img src="https://amj-instal.pl/media/posts/14/BIEL8449-fot.-Krzysztof-Bielinski-scaled.jpg" alt="" />
                     Potwierdzeniem posiadanych&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://amj-instal.github.io/media/posts/14/BIEL8449-fot.-Krzysztof-Bielinski-scaled.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://amj-instal.pl/media/posts/14/BIEL8449-fot.-Krzysztof-Bielinski-scaled.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Potwierdzeniem posiadanych kompetencji przez naszą obecną kadrę w zakresie wiedzy technicznej oraz umiejętności organizacyjnych jest ich udział w realizacji kontraktów dla przedstawionych poniżej obiektów:</p>
 <ul>
 <li>Osiedle mieszkaniowe Tarasy Bartycka w Warszawie,</li>
@@ -44,20 +44,20 @@
         <author>
             <name>Tomasz Górski</name>
         </author>
-        <link href="https://amj-instal.github.io/centra-handlowe-i-hipermarkety-2/"/>
-        <id>https://amj-instal.github.io/centra-handlowe-i-hipermarkety-2/</id>
-        <media:content url="https://amj-instal.github.io/media/posts/13/13129789.jpg" medium="image" />
+        <link href="https://amj-instal.pl/centra-handlowe-i-hipermarkety-2/"/>
+        <id>https://amj-instal.pl/centra-handlowe-i-hipermarkety-2/</id>
+        <media:content url="https://amj-instal.pl/media/posts/13/13129789.jpg" medium="image" />
 
         <updated>2026-02-27T23:52:26+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://amj-instal.github.io/media/posts/13/13129789.jpg" alt="" />
+                        <img src="https://amj-instal.pl/media/posts/13/13129789.jpg" alt="" />
                     Potwierdzeniem posiadanych&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://amj-instal.github.io/media/posts/13/13129789.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://amj-instal.pl/media/posts/13/13129789.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Potwierdzeniem posiadanych kompetencji przez naszą obecną kadrę w zakresie wiedzy technicznej oraz umiejętności organizacyjnych jest ich udział w realizacji kontraktów dla przedstawionych poniżej obiektów:</p>
 <ul>
 <li>Zakład Produkcyjny pianki poliuretanowej do siedzeń samochodowych Proseat w Żorach,</li>
@@ -75,20 +75,20 @@
         <author>
             <name>Tomasz Górski</name>
         </author>
-        <link href="https://amj-instal.github.io/centra-handlowe-i-hipermarkety/"/>
-        <id>https://amj-instal.github.io/centra-handlowe-i-hipermarkety/</id>
-        <media:content url="https://amj-instal.github.io/media/posts/9/Targowek_fot1-1.jpg" medium="image" />
+        <link href="https://amj-instal.pl/centra-handlowe-i-hipermarkety/"/>
+        <id>https://amj-instal.pl/centra-handlowe-i-hipermarkety/</id>
+        <media:content url="https://amj-instal.pl/media/posts/9/Targowek_fot1-1.jpg" medium="image" />
 
         <updated>2026-02-27T01:15:57+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://amj-instal.github.io/media/posts/9/Targowek_fot1-1.jpg" alt="" />
+                        <img src="https://amj-instal.pl/media/posts/9/Targowek_fot1-1.jpg" alt="" />
                     Potwierdzeniem posiadanych&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://amj-instal.github.io/media/posts/9/Targowek_fot1-1.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://amj-instal.pl/media/posts/9/Targowek_fot1-1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Potwierdzeniem posiadanych kompetencji przez naszą obecną kadrę w zakresie wiedzy technicznej oraz umiejętności organizacyjnych jest ich udział w realizacji kontraktów dla przedstawionych poniżej obiektów:</p>
 <ul>
 <li>Home Park Targówek w Warszawie,</li>
@@ -114,20 +114,20 @@
         <author>
             <name>Tomasz Górski</name>
         </author>
-        <link href="https://amj-instal.github.io/budynki-biurowe-i-hotele/"/>
-        <id>https://amj-instal.github.io/budynki-biurowe-i-hotele/</id>
-        <media:content url="https://amj-instal.github.io/media/posts/8/6-1729500943.jpg" medium="image" />
+        <link href="https://amj-instal.pl/budynki-biurowe-i-hotele/"/>
+        <id>https://amj-instal.pl/budynki-biurowe-i-hotele/</id>
+        <media:content url="https://amj-instal.pl/media/posts/8/6-1729500943.jpg" medium="image" />
 
         <updated>2026-02-27T01:05:38+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://amj-instal.github.io/media/posts/8/6-1729500943.jpg" alt="" />
+                        <img src="https://amj-instal.pl/media/posts/8/6-1729500943.jpg" alt="" />
                     Potwierdzeniem posiadanych&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://amj-instal.github.io/media/posts/8/6-1729500943.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://amj-instal.pl/media/posts/8/6-1729500943.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Potwierdzeniem posiadanych kompetencji przez naszą obecną kadrę w zakresie wiedzy technicznej oraz umiejętności organizacyjnych jest ich udział w realizacji kontraktów dla przedstawionych poniżej obiektów:</p>
 <ul>
 <li>Siedziby Banku Handlowego i mBanku przy Placu Teatralnym w Warszawie,</li>
